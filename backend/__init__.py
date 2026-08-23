@@ -1,0 +1,1 @@
+"""People Studio backend."""
