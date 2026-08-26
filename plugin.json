@@ -1,7 +1,7 @@
 {
   "id": "zhiyun-people-studio",
   "name": "智能人力与协同中心",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "type": "app",
   "description": "基于真实组织与员工数据完成权限分级建议、全员通讯录检索、审批路径推荐、员工关怀提醒与人力分析。",
   "author": "Zhiyun AI",
@@ -25,6 +25,8 @@
       "chat": true,
       "storage": true
     },
-    "requires": ["zhiyun-data-core>=0.1.0"]
+    "requires": [
+      "zhiyun-data-core>=0.1.0"
+    ]
   }
 }
